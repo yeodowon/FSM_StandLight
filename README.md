@@ -3,7 +3,8 @@
 
 버튼 설정
 
-![image](https://user-images.githubusercontent.com/113006249/201826969-73fc8f8b-195e-4c29-92a8-736d2267496a.png)
+![image](https://user-images.githubusercontent.com/113006249/201827066-834cc5cb-4918-4d34-a08f-96ba15896960.png)
+
 
 
 동작영상
