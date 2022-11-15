@@ -9,7 +9,7 @@
 
 동작영상
 
-1단 up -> 1단 down,  2단 up -> 2단 down,  3단 up -> 3단 down,  4단 up -> 4단 down,  2단 up -> off, 3단 up -> reset 
+1단 up -> 1단 down//  2단 up -> 2단 down//  3단 up -> 3단 down//  4단 up -> 4단 down//  2단 up -> off// 3단 up -> reset 
 
 
 
