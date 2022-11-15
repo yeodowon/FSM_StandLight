@@ -9,8 +9,12 @@
 
 동작영상
 
-1단 on -> 1단 off,  2단 on -> 2단 off,  3단 on -> 3단 off,  4단 on -> 4단 off,  3단 on -> reset 
+1단 up -> 1단 down,  2단 up -> 2단 down,  3단 up -> 3단 down,  4단 up -> 4단 down,  2단 up -> off, 3단 up -> reset 
 
 
-https://user-images.githubusercontent.com/113006249/201796119-10202db7-e9eb-439e-b6e0-ac641362d680.mp4
+
+
+
+
+https://user-images.githubusercontent.com/113006249/201851969-487d4be5-e06a-41a9-99b5-ae2f5230ca79.mp4
 
